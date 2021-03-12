@@ -1,7 +1,7 @@
 #pragma once
 
 #include "FileSystem.h"
-#include <AK/HashMap.h>
+#include <../ak/HashMap.h>
 
 class SyntheticFileSystem final : public FileSystem {
 public:

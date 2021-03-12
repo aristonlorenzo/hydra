@@ -1,7 +1,7 @@
 #pragma once
 
 #include <../ak/ByteBuffer.h>
-#include <../ak/Types.h>
+#include <../ak/types.h>
 
 class FileSystem;
 struct InodeMetadata;

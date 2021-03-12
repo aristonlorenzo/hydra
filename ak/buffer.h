@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Assertions.h"
+#include "assertions.h"
 #include "Retainable.h"
 #include "RetainPtr.h"
 #include <cstdlib>

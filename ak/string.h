@@ -3,7 +3,7 @@
 #include "ByteBuffer.h"
 #include "RetainPtr.h"
 #include "StringImpl.h"
-#include "Traits.h"
+#include "traits.h"
 #include "Vector.h"
 #include <cstdio>
 
