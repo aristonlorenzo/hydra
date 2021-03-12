@@ -22,7 +22,6 @@ DIRS = $(wildcard $(SRCDIR)/*)
 setup:
 	@mkdir $(BUILDDIR)
 	@mkdir $(SRCDIR)
-	@mkdir $(OBJDIR)
 
 buildimg:
 	dd if=/dev/zero of=$(BUILDDIR)/$(OSNAME).img bs=512 count=93750
